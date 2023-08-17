@@ -9,3 +9,39 @@ On Independence Day, our spirits soar high,
 A celebration of freedom, beneath the azure sky.
 A day to honor the brave, who fought and stood strong,
 For a nation united, where liberty belongs.
+
+ASP.NET was released in 2002 as a successor to Classic ASP.
+
+ASP.NET pages have the extension .aspx and are normally written in C# (C sharp).
+
+ASP.NET 4.6 is the latest official version of ASP.NET.
+
+ASP.NET 5 was expected to be an important redesign of ASP.NET.
+
+However, the development of ASP.NET 5 was stopped in favor of ASP.NET Core.
+
+
+
+ASP.NET was released in 2002 as a successor to Classic ASP.
+
+ASP.NET pages have the extension .aspx and are normally written in C# (C sharp).
+
+ASP.NET 4.6 is the latest official version of ASP.NET.
+
+ASP.NET 5 was expected to be an important redesign of ASP.NET.
+
+However, the development of ASP.NET 5 was stopped in favor of ASP.NET Core.
+
+
+
+ASP.NET was released in 2002 as a successor to Classic ASP.
+
+ASP.NET pages have the extension .aspx and are normally written in C# (C sharp).
+
+ASP.NET 4.6 is the latest official version of ASP.NET.
+
+ASP.NET 5 was expected to be an important redesign of ASP.NET.
+
+However, the development of ASP.NET 5 was stopped in favor of ASP.NET Core.
+
+
